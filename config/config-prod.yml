@@ -1,2 +1,3 @@
-config:
-  name:production,version:1.0
+configTest:
+  profile: dev
+  version: 1.0
